@@ -1,0 +1,1897 @@
+Seq: NC_111760.1_1 # 1 # 2178 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.354 Len:2178
+GC content is 0.3554
+Number of bases of type A= 681
+Number of bases of type C= 342
+Number of bases of type G= 432
+Number of bases of type T= 723
+--
+Seq: NC_111760.1_2 # 2189 # 2392 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.309 Len:204
+GC content is 0.3088
+Number of bases of type A= 84
+Number of bases of type C= 28
+Number of bases of type G= 35
+Number of bases of type T= 57
+--
+Seq: NC_111760.1_3 # 2447 # 4264 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.371 Len:1818
+GC content is 0.3707
+Number of bases of type A= 575
+Number of bases of type C= 291
+Number of bases of type G= 383
+Number of bases of type T= 569
+--
+Seq: NC_111760.1_4 # 4333 # 4593 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.364 Len:261
+GC content is 0.3640
+Number of bases of type A= 75
+Number of bases of type C= 40
+Number of bases of type G= 55
+Number of bases of type T= 91
+--
+Seq: NC_111760.1_5 # 4598 # 4969 # -1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.309 Len:372
+GC content is 0.3118
+Number of bases of type A= 128
+Number of bases of type C= 48
+Number of bases of type G= 68
+Number of bases of type T= 128
+--
+Seq: NC_111760.1_6 # 4972 # 5148 # -1 # ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.362 Len:177
+GC content is 0.3729
+Number of bases of type A= 56
+Number of bases of type C= 28
+Number of bases of type G= 38
+Number of bases of type T= 55
+--
+Seq: NC_111760.1_7 # 5151 # 5570 # -1 # ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.343 Len:420
+GC content is 0.3429
+Number of bases of type A= 156
+Number of bases of type C= 62
+Number of bases of type G= 82
+Number of bases of type T= 120
+--
+Seq: NC_111760.1_8 # 5570 # 5785 # -1 # ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.338 Len:216
+GC content is 0.3380
+Number of bases of type A= 74
+Number of bases of type C= 27
+Number of bases of type G= 46
+Number of bases of type T= 69
+--
+Seq: NC_111760.1_9 # 5799 # 6068 # -1 # ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.367 Len:270
+GC content is 0.3667
+Number of bases of type A= 82
+Number of bases of type C= 41
+Number of bases of type G= 58
+Number of bases of type T= 89
+--
+Seq: NC_111760.1_10 # 6166 # 6663 # -1 # ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.384 Len:498
+GC content is 0.3835
+Number of bases of type A= 155
+Number of bases of type C= 78
+Number of bases of type G= 113
+Number of bases of type T= 152
+--
+Seq: NC_111760.1_11 # 6740 # 7279 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.361 Len:540
+GC content is 0.3611
+Number of bases of type A= 172
+Number of bases of type C= 84
+Number of bases of type G= 111
+Number of bases of type T= 173
+--
+Seq: NC_111760.1_12 # 7282 # 7782 # -1 # ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.325 Len:501
+GC content is 0.3273
+Number of bases of type A= 172
+Number of bases of type C= 66
+Number of bases of type G= 98
+Number of bases of type T= 165
+--
+Seq: NC_111760.1_13 # 7846 # 8529 # -1 # ID=1_13;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.380 Len:684
+GC content is 0.3816
+Number of bases of type A= 207
+Number of bases of type C= 119
+Number of bases of type G= 142
+Number of bases of type T= 216
+--
+Seq: NC_111760.1_14 # 8529 # 8771 # -1 # ID=1_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.296 Len:243
+GC content is 0.2963
+Number of bases of type A= 93
+Number of bases of type C= 30
+Number of bases of type G= 42
+Number of bases of type T= 78
+--
+Seq: NC_111760.1_15 # 8764 # 9009 # -1 # ID=1_15;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.317 Len:246
+GC content is 0.3130
+Number of bases of type A= 90
+Number of bases of type C= 25
+Number of bases of type G= 52
+Number of bases of type T= 79
+--
+Seq: NC_111760.1_16 # 8996 # 9256 # -1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.303 Len:261
+GC content is 0.3065
+Number of bases of type A= 104
+Number of bases of type C= 35
+Number of bases of type G= 45
+Number of bases of type T= 77
+--
+Seq: NC_111760.1_17 # 9263 # 10582 # -1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.348 Len:1320
+GC content is 0.3477
+Number of bases of type A= 442
+Number of bases of type C= 199
+Number of bases of type G= 260
+Number of bases of type T= 419
+--
+Seq: NC_111760.1_18 # 10579 # 10890 # -1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.362 Len:312
+GC content is 0.3654
+Number of bases of type A= 94
+Number of bases of type C= 42
+Number of bases of type G= 72
+Number of bases of type T= 104
+--
+Seq: NC_111760.1_19 # 10892 # 11638 # -1 # ID=1_19;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.313 Len:747
+GC content is 0.3146
+Number of bases of type A= 285
+Number of bases of type C= 102
+Number of bases of type G= 133
+Number of bases of type T= 227
+--
+Seq: NC_111760.1_20 # 11754 # 12356 # -1 # ID=1_20;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.303 Len:603
+GC content is 0.3018
+Number of bases of type A= 214
+Number of bases of type C= 81
+Number of bases of type G= 101
+Number of bases of type T= 207
+--
+Seq: NC_111760.1_21 # 12353 # 12976 # -1 # ID=1_21;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.306 Len:624
+GC content is 0.3045
+Number of bases of type A= 226
+Number of bases of type C= 84
+Number of bases of type G= 106
+Number of bases of type T= 208
+--
+Seq: NC_111760.1_22 # 13044 # 13226 # -1 # ID=1_22;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.383 Len:183
+GC content is 0.3825
+Number of bases of type A= 60
+Number of bases of type C= 35
+Number of bases of type G= 35
+Number of bases of type T= 53
+--
+Seq: NC_111760.1_23 # 13235 # 13705 # -1 # ID=1_23;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.289 Len:471
+GC content is 0.2909
+Number of bases of type A= 177
+Number of bases of type C= 56
+Number of bases of type G= 81
+Number of bases of type T= 157
+--
+Seq: NC_111760.1_24 # 13698 # 13862 # -1 # ID=1_24;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.370 Len:165
+GC content is 0.3636
+Number of bases of type A= 70
+Number of bases of type C= 23
+Number of bases of type G= 37
+Number of bases of type T= 35
+--
+Seq: NC_111760.1_25 # 13859 # 14044 # -1 # ID=1_25;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349 Len:186
+GC content is 0.3548
+Number of bases of type A= 77
+Number of bases of type C= 22
+Number of bases of type G= 44
+Number of bases of type T= 43
+--
+Seq: NC_111760.1_26 # 14037 # 14522 # -1 # ID=1_26;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.296 Len:486
+GC content is 0.2963
+Number of bases of type A= 172
+Number of bases of type C= 59
+Number of bases of type G= 85
+Number of bases of type T= 170
+--
+Seq: NC_111760.1_27 # 14531 # 14872 # -1 # ID=1_27;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.357 Len:342
+GC content is 0.3567
+Number of bases of type A= 98
+Number of bases of type C= 59
+Number of bases of type G= 63
+Number of bases of type T= 122
+--
+Seq: NC_111760.1_28 # 14872 # 15084 # -1 # ID=1_28;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.404 Len:213
+GC content is 0.3991
+Number of bases of type A= 66
+Number of bases of type C= 33
+Number of bases of type G= 52
+Number of bases of type T= 62
+--
+Seq: NC_111760.1_29 # 15183 # 15428 # -1 # ID=1_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.366 Len:246
+GC content is 0.3659
+Number of bases of type A= 86
+Number of bases of type C= 40
+Number of bases of type G= 50
+Number of bases of type T= 70
+--
+Seq: NC_111760.1_30 # 15511 # 16029 # -1 # ID=1_30;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.382 Len:519
+GC content is 0.3815
+Number of bases of type A= 160
+Number of bases of type C= 87
+Number of bases of type G= 111
+Number of bases of type T= 161
+--
+Seq: NC_111760.1_31 # 16101 # 16301 # 1 # ID=1_31;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.313 Len:201
+GC content is 0.3134
+Number of bases of type A= 57
+Number of bases of type C= 27
+Number of bases of type G= 36
+Number of bases of type T= 81
+--
+Seq: NC_111760.1_32 # 16298 # 17326 # -1 # ID=1_32;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.338 Len:1029
+GC content is 0.3382
+Number of bases of type A= 381
+Number of bases of type C= 154
+Number of bases of type G= 194
+Number of bases of type T= 300
+--
+Seq: NC_111760.1_33 # 17329 # 17493 # -1 # ID=1_33;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.321 Len:165
+GC content is 0.3273
+Number of bases of type A= 76
+Number of bases of type C= 20
+Number of bases of type G= 34
+Number of bases of type T= 35
+--
+Seq: NC_111760.1_34 # 17495 # 17851 # -1 # ID=1_34;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.272 Len:357
+GC content is 0.2717
+Number of bases of type A= 134
+Number of bases of type C= 37
+Number of bases of type G= 60
+Number of bases of type T= 126
+--
+Seq: NC_111760.1_35 # 17853 # 18479 # -1 # ID=1_35;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.337 Len:627
+GC content is 0.3365
+Number of bases of type A= 197
+Number of bases of type C= 96
+Number of bases of type G= 115
+Number of bases of type T= 219
+--
+Seq: NC_111760.1_36 # 18479 # 18772 # -1 # ID=1_36;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.354 Len:294
+GC content is 0.3503
+Number of bases of type A= 96
+Number of bases of type C= 40
+Number of bases of type G= 63
+Number of bases of type T= 95
+--
+Seq: NC_111760.1_37 # 18833 # 19090 # -1 # ID=1_37;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364 Len:258
+GC content is 0.3643
+Number of bases of type A= 86
+Number of bases of type C= 42
+Number of bases of type G= 52
+Number of bases of type T= 78
+--
+Seq: NC_111760.1_38 # 19092 # 19274 # -1 # ID=1_38;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.328 Len:183
+GC content is 0.3333
+Number of bases of type A= 67
+Number of bases of type C= 17
+Number of bases of type G= 44
+Number of bases of type T= 55
+--
+Seq: NC_111760.1_39 # 19333 # 20760 # -1 # ID=1_39;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.367 Len:1428
+GC content is 0.3662
+Number of bases of type A= 475
+Number of bases of type C= 232
+Number of bases of type G= 291
+Number of bases of type T= 430
+--
+Seq: NC_111760.1_40 # 20770 # 21114 # -1 # ID=1_40;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.313 Len:345
+GC content is 0.3130
+Number of bases of type A= 135
+Number of bases of type C= 43
+Number of bases of type G= 65
+Number of bases of type T= 102
+--
+Seq: NC_111760.1_41 # 21107 # 22288 # -1 # ID=1_41;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.360 Len:1182
+GC content is 0.3596
+Number of bases of type A= 378
+Number of bases of type C= 184
+Number of bases of type G= 241
+Number of bases of type T= 379
+--
+Seq: NC_111760.1_42 # 22366 # 23208 # -1 # ID=1_42;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.363 Len:843
+GC content is 0.3630
+Number of bases of type A= 280
+Number of bases of type C= 137
+Number of bases of type G= 169
+Number of bases of type T= 257
+--
+Seq: NC_111760.1_43 # 23205 # 23945 # -1 # ID=1_43;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.367 Len:741
+GC content is 0.3671
+Number of bases of type A= 233
+Number of bases of type C= 113
+Number of bases of type G= 159
+Number of bases of type T= 236
+--
+Seq: NC_111760.1_44 # 23953 # 24102 # -1 # ID=1_44;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.287 Len:150
+GC content is 0.2800
+Number of bases of type A= 51
+Number of bases of type C= 16
+Number of bases of type G= 26
+Number of bases of type T= 57
+--
+Seq: NC_111760.1_45 # 24099 # 24350 # -1 # ID=1_45;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.361 Len:252
+GC content is 0.3571
+Number of bases of type A= 71
+Number of bases of type C= 37
+Number of bases of type G= 53
+Number of bases of type T= 91
+--
+Seq: NC_111760.1_46 # 24358 # 24927 # -1 # ID=1_46;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356 Len:570
+GC content is 0.3561
+Number of bases of type A= 193
+Number of bases of type C= 90
+Number of bases of type G= 113
+Number of bases of type T= 174
+--
+Seq: NC_111760.1_47 # 24920 # 27616 # -1 # ID=1_47;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.367 Len:2697
+GC content is 0.3671
+Number of bases of type A= 865
+Number of bases of type C= 429
+Number of bases of type G= 561
+Number of bases of type T= 842
+--
+Seq: NC_111760.1_48 # 27695 # 27916 # -1 # ID=1_48;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.297 Len:222
+GC content is 0.2973
+Number of bases of type A= 88
+Number of bases of type C= 38
+Number of bases of type G= 28
+Number of bases of type T= 68
+--
+Seq: NC_111760.1_49 # 27918 # 28286 # -1 # ID=1_49;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.336 Len:369
+GC content is 0.3360
+Number of bases of type A= 133
+Number of bases of type C= 55
+Number of bases of type G= 69
+Number of bases of type T= 112
+--
+Seq: NC_111760.1_50 # 28288 # 28851 # -1 # ID=1_50;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.316 Len:564
+GC content is 0.3191
+Number of bases of type A= 211
+Number of bases of type C= 75
+Number of bases of type G= 105
+Number of bases of type T= 173
+--
+Seq: NC_111760.1_51 # 28853 # 29812 # -1 # ID=1_51;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.358 Len:960
+GC content is 0.3594
+Number of bases of type A= 299
+Number of bases of type C= 154
+Number of bases of type G= 191
+Number of bases of type T= 316
+--
+Seq: NC_111760.1_52 # 29864 # 30550 # -1 # ID=1_52;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.360 Len:687
+GC content is 0.3581
+Number of bases of type A= 215
+Number of bases of type C= 118
+Number of bases of type G= 128
+Number of bases of type T= 226
+--
+Seq: NC_111760.1_53 # 30606 # 30995 # -1 # ID=1_53;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.367 Len:390
+GC content is 0.3692
+Number of bases of type A= 126
+Number of bases of type C= 64
+Number of bases of type G= 80
+Number of bases of type T= 120
+--
+Seq: NC_111760.1_54 # 31005 # 31193 # -1 # ID=1_54;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.280 Len:189
+GC content is 0.2804
+Number of bases of type A= 76
+Number of bases of type C= 25
+Number of bases of type G= 28
+Number of bases of type T= 60
+--
+Seq: NC_111760.1_55 # 31249 # 32889 # -1 # ID=1_55;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.336 Len:1641
+GC content is 0.3358
+Number of bases of type A= 603
+Number of bases of type C= 241
+Number of bases of type G= 310
+Number of bases of type T= 487
+--
+Seq: NC_111760.1_56 # 32928 # 33143 # -1 # ID=1_56;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.306 Len:216
+GC content is 0.3009
+Number of bases of type A= 78
+Number of bases of type C= 24
+Number of bases of type G= 41
+Number of bases of type T= 73
+--
+Seq: NC_111760.1_57 # 33115 # 33378 # -1 # ID=1_57;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.322 Len:264
+GC content is 0.3182
+Number of bases of type A= 90
+Number of bases of type C= 32
+Number of bases of type G= 52
+Number of bases of type T= 90
+--
+Seq: NC_111760.1_58 # 33375 # 34394 # -1 # ID=1_58;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.361 Len:1020
+GC content is 0.3608
+Number of bases of type A= 341
+Number of bases of type C= 164
+Number of bases of type G= 204
+Number of bases of type T= 311
+--
+Seq: NC_111760.1_59 # 34571 # 35773 # -1 # ID=1_59;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.343 Len:1203
+GC content is 0.3433
+Number of bases of type A= 386
+Number of bases of type C= 189
+Number of bases of type G= 224
+Number of bases of type T= 404
+--
+Seq: NC_111760.1_60 # 35840 # 36013 # -1 # ID=1_60;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351 Len:174
+GC content is 0.3506
+Number of bases of type A= 67
+Number of bases of type C= 29
+Number of bases of type G= 32
+Number of bases of type T= 46
+--
+Seq: NC_111760.1_61 # 36017 # 36220 # -1 # ID=1_61;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.333 Len:204
+GC content is 0.3333
+Number of bases of type A= 72
+Number of bases of type C= 29
+Number of bases of type G= 39
+Number of bases of type T= 64
+--
+Seq: NC_111760.1_62 # 36189 # 36506 # -1 # ID=1_62;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340 Len:318
+GC content is 0.3428
+Number of bases of type A= 125
+Number of bases of type C= 52
+Number of bases of type G= 57
+Number of bases of type T= 84
+--
+Seq: NC_111760.1_63 # 36508 # 36726 # -1 # ID=1_63;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.315 Len:219
+GC content is 0.3151
+Number of bases of type A= 73
+Number of bases of type C= 32
+Number of bases of type G= 37
+Number of bases of type T= 77
+--
+Seq: NC_111760.1_64 # 36710 # 37267 # -1 # ID=1_64;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.337 Len:558
+GC content is 0.3369
+Number of bases of type A= 212
+Number of bases of type C= 88
+Number of bases of type G= 100
+Number of bases of type T= 158
+--
+Seq: NC_111760.1_65 # 37348 # 37617 # -1 # ID=1_65;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.256 Len:270
+GC content is 0.2556
+Number of bases of type A= 99
+Number of bases of type C= 28
+Number of bases of type G= 41
+Number of bases of type T= 102
+--
+Seq: NC_111760.1_66 # 37614 # 37829 # -1 # ID=1_66;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.366 Len:216
+GC content is 0.3657
+Number of bases of type A= 68
+Number of bases of type C= 30
+Number of bases of type G= 49
+Number of bases of type T= 69
+--
+Seq: NC_111760.1_67 # 37832 # 38158 # -1 # ID=1_67;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.309 Len:327
+GC content is 0.3089
+Number of bases of type A= 127
+Number of bases of type C= 45
+Number of bases of type G= 56
+Number of bases of type T= 99
+--
+Seq: NC_111760.1_68 # 38211 # 38411 # -1 # ID=1_68;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.378 Len:201
+GC content is 0.3881
+Number of bases of type A= 68
+Number of bases of type C= 35
+Number of bases of type G= 43
+Number of bases of type T= 55
+--
+Seq: NC_111760.1_69 # 38412 # 38543 # -1 # ID=1_69;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.311 Len:132
+GC content is 0.3106
+Number of bases of type A= 52
+Number of bases of type C= 17
+Number of bases of type G= 24
+Number of bases of type T= 39
+--
+Seq: NC_111760.1_70 # 38551 # 38844 # -1 # ID=1_70;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.350 Len:294
+GC content is 0.3503
+Number of bases of type A= 104
+Number of bases of type C= 37
+Number of bases of type G= 66
+Number of bases of type T= 87
+--
+Seq: NC_111760.1_71 # 38837 # 39019 # -1 # ID=1_71;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.284 Len:183
+GC content is 0.2951
+Number of bases of type A= 59
+Number of bases of type C= 17
+Number of bases of type G= 37
+Number of bases of type T= 70
+--
+Seq: NC_111760.1_72 # 39177 # 39485 # -1 # ID=1_72;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.340 Len:309
+GC content is 0.3430
+Number of bases of type A= 107
+Number of bases of type C= 56
+Number of bases of type G= 50
+Number of bases of type T= 96
+--
+Seq: NC_111760.1_73 # 39488 # 39700 # -1 # ID=1_73;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.329 Len:213
+GC content is 0.3286
+Number of bases of type A= 57
+Number of bases of type C= 31
+Number of bases of type G= 39
+Number of bases of type T= 86
+--
+Seq: NC_111760.1_74 # 39815 # 40285 # -1 # ID=1_74;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.359 Len:471
+GC content is 0.3567
+Number of bases of type A= 157
+Number of bases of type C= 63
+Number of bases of type G= 105
+Number of bases of type T= 146
+--
+Seq: NC_111760.1_75 # 40282 # 42099 # -1 # ID=1_75;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.371 Len:1818
+GC content is 0.3707
+Number of bases of type A= 581
+Number of bases of type C= 309
+Number of bases of type G= 365
+Number of bases of type T= 563
+--
+Seq: NC_111760.1_76 # 42096 # 42569 # -1 # ID=1_76;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.329 Len:474
+GC content is 0.3291
+Number of bases of type A= 183
+Number of bases of type C= 67
+Number of bases of type G= 89
+Number of bases of type T= 135
+--
+Seq: NC_111760.1_77 # 42612 # 42788 # -1 # ID=1_77;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.311 Len:177
+GC content is 0.3164
+Number of bases of type A= 64
+Number of bases of type C= 26
+Number of bases of type G= 30
+Number of bases of type T= 57
+--
+Seq: NC_111760.1_78 # 42763 # 43233 # -1 # ID=1_78;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.352 Len:471
+GC content is 0.3546
+Number of bases of type A= 163
+Number of bases of type C= 66
+Number of bases of type G= 101
+Number of bases of type T= 141
+--
+Seq: NC_111760.1_79 # 43217 # 43372 # -1 # ID=1_79;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404 Len:156
+GC content is 0.4038
+Number of bases of type A= 58
+Number of bases of type C= 21
+Number of bases of type G= 42
+Number of bases of type T= 35
+--
+Seq: NC_111760.1_80 # 43357 # 43677 # -1 # ID=1_80;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358 Len:321
+GC content is 0.3583
+Number of bases of type A= 104
+Number of bases of type C= 50
+Number of bases of type G= 65
+Number of bases of type T= 102
+--
+Seq: NC_111760.1_81 # 43688 # 43897 # -1 # ID=1_81;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.352 Len:210
+GC content is 0.3524
+Number of bases of type A= 72
+Number of bases of type C= 29
+Number of bases of type G= 45
+Number of bases of type T= 64
+--
+Seq: NC_111760.1_82 # 43861 # 44076 # -1 # ID=1_82;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.370 Len:216
+GC content is 0.3796
+Number of bases of type A= 70
+Number of bases of type C= 29
+Number of bases of type G= 53
+Number of bases of type T= 64
+--
+Seq: NC_111760.1_83 # 44073 # 44336 # -1 # ID=1_83;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.379 Len:264
+GC content is 0.3788
+Number of bases of type A= 80
+Number of bases of type C= 38
+Number of bases of type G= 62
+Number of bases of type T= 84
+--
+Seq: NC_111760.1_84 # 44338 # 44580 # -1 # ID=1_84;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.317 Len:243
+GC content is 0.3169
+Number of bases of type A= 100
+Number of bases of type C= 32
+Number of bases of type G= 45
+Number of bases of type T= 66
+--
+Seq: NC_111760.1_85 # 44567 # 44884 # -1 # ID=1_85;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.396 Len:318
+GC content is 0.4025
+Number of bases of type A= 107
+Number of bases of type C= 57
+Number of bases of type G= 71
+Number of bases of type T= 83
+--
+Seq: NC_111760.1_86 # 44881 # 45810 # -1 # ID=1_86;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.346 Len:930
+GC content is 0.3452
+Number of bases of type A= 317
+Number of bases of type C= 162
+Number of bases of type G= 159
+Number of bases of type T= 292
+--
+Seq: NC_111760.1_87 # 45863 # 46894 # -1 # ID=1_87;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.308 Len:1032
+GC content is 0.3091
+Number of bases of type A= 365
+Number of bases of type C= 140
+Number of bases of type G= 179
+Number of bases of type T= 348
+--
+Seq: NC_111760.1_88 # 46922 # 47950 # -1 # ID=1_88;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.330 Len:1029
+GC content is 0.3304
+Number of bases of type A= 374
+Number of bases of type C= 154
+Number of bases of type G= 186
+Number of bases of type T= 315
+--
+Seq: NC_111760.1_89 # 47959 # 48849 # -1 # ID=1_89;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.315 Len:891
+GC content is 0.3165
+Number of bases of type A= 317
+Number of bases of type C= 121
+Number of bases of type G= 161
+Number of bases of type T= 292
+--
+Seq: NC_111760.1_90 # 48857 # 49264 # -1 # ID=1_90;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.299 Len:408
+GC content is 0.3015
+Number of bases of type A= 132
+Number of bases of type C= 44
+Number of bases of type G= 79
+Number of bases of type T= 153
+--
+Seq: NC_111760.1_91 # 49320 # 49847 # -1 # ID=1_91;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.331 Len:528
+GC content is 0.3333
+Number of bases of type A= 199
+Number of bases of type C= 77
+Number of bases of type G= 99
+Number of bases of type T= 153
+--
+Seq: NC_111760.1_92 # 49908 # 50210 # -1 # ID=1_92;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.396 Len:303
+GC content is 0.3927
+Number of bases of type A= 111
+Number of bases of type C= 51
+Number of bases of type G= 68
+Number of bases of type T= 73
+--
+Seq: NC_111760.1_93 # 50293 # 51012 # -1 # ID=1_93;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.292 Len:720
+GC content is 0.2944
+Number of bases of type A= 311
+Number of bases of type C= 86
+Number of bases of type G= 126
+Number of bases of type T= 197
+--
+Seq: NC_111760.1_94 # 51009 # 52094 # -1 # ID=1_94;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358 Len:1086
+GC content is 0.3582
+Number of bases of type A= 348
+Number of bases of type C= 159
+Number of bases of type G= 230
+Number of bases of type T= 349
+--
+Seq: NC_111760.1_95 # 52091 # 53101 # -1 # ID=1_95;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.381 Len:1011
+GC content is 0.3798
+Number of bases of type A= 323
+Number of bases of type C= 175
+Number of bases of type G= 209
+Number of bases of type T= 304
+--
+Seq: NC_111760.1_96 # 53101 # 53562 # -1 # ID=1_96;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.323 Len:462
+GC content is 0.3225
+Number of bases of type A= 143
+Number of bases of type C= 72
+Number of bases of type G= 77
+Number of bases of type T= 170
+--
+Seq: NC_111760.1_97 # 53565 # 54086 # -1 # ID=1_97;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.308 Len:522
+GC content is 0.3103
+Number of bases of type A= 189
+Number of bases of type C= 63
+Number of bases of type G= 99
+Number of bases of type T= 171
+--
+Seq: NC_111760.1_98 # 54093 # 54626 # -1 # ID=1_98;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.301 Len:534
+GC content is 0.3034
+Number of bases of type A= 189
+Number of bases of type C= 77
+Number of bases of type G= 85
+Number of bases of type T= 183
+--
+Seq: NC_111760.1_99 # 54628 # 54903 # -1 # ID=1_99;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.312 Len:276
+GC content is 0.3080
+Number of bases of type A= 103
+Number of bases of type C= 33
+Number of bases of type G= 52
+Number of bases of type T= 88
+--
+Seq: NC_111760.1_100 # 54896 # 55081 # -1 # ID=1_100;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.285 Len:186
+GC content is 0.2849
+Number of bases of type A= 72
+Number of bases of type C= 21
+Number of bases of type G= 32
+Number of bases of type T= 61
+--
+Seq: NC_111760.1_101 # 55246 # 55419 # -1 # ID=1_101;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.345 Len:174
+GC content is 0.3448
+Number of bases of type A= 64
+Number of bases of type C= 24
+Number of bases of type G= 36
+Number of bases of type T= 50
+--
+Seq: NC_111760.1_102 # 55409 # 55603 # -1 # ID=1_102;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.328 Len:195
+GC content is 0.3282
+Number of bases of type A= 77
+Number of bases of type C= 23
+Number of bases of type G= 41
+Number of bases of type T= 54
+--
+Seq: NC_111760.1_103 # 55606 # 55809 # -1 # ID=1_103;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.343 Len:204
+GC content is 0.3431
+Number of bases of type A= 72
+Number of bases of type C= 24
+Number of bases of type G= 46
+Number of bases of type T= 62
+--
+Seq: NC_111760.1_104 # 55809 # 55997 # -1 # ID=1_104;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.344 Len:189
+GC content is 0.3386
+Number of bases of type A= 62
+Number of bases of type C= 25
+Number of bases of type G= 39
+Number of bases of type T= 63
+--
+Seq: NC_111760.1_105 # 56093 # 56479 # -1 # ID=1_105;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.351 Len:387
+GC content is 0.3488
+Number of bases of type A= 132
+Number of bases of type C= 71
+Number of bases of type G= 64
+Number of bases of type T= 120
+--
+Seq: NC_111760.1_106 # 56476 # 56769 # -1 # ID=1_106;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.381 Len:294
+GC content is 0.3810
+Number of bases of type A= 91
+Number of bases of type C= 50
+Number of bases of type G= 62
+Number of bases of type T= 91
+--
+Seq: NC_111760.1_107 # 56782 # 56994 # -1 # ID=1_107;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.362 Len:213
+GC content is 0.3615
+Number of bases of type A= 78
+Number of bases of type C= 38
+Number of bases of type G= 39
+Number of bases of type T= 58
+--
+Seq: NC_111760.1_108 # 57037 # 57618 # -1 # ID=1_108;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.338 Len:582
+GC content is 0.3402
+Number of bases of type A= 189
+Number of bases of type C= 74
+Number of bases of type G= 124
+Number of bases of type T= 195
+--
+Seq: NC_111760.1_109 # 57628 # 57813 # -1 # ID=1_109;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.366 Len:186
+GC content is 0.3656
+Number of bases of type A= 70
+Number of bases of type C= 31
+Number of bases of type G= 37
+Number of bases of type T= 48
+--
+Seq: NC_111760.1_110 # 57810 # 57983 # -1 # ID=1_110;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.287 Len:174
+GC content is 0.2874
+Number of bases of type A= 66
+Number of bases of type C= 20
+Number of bases of type G= 30
+Number of bases of type T= 58
+--
+Seq: NC_111760.1_111 # 57980 # 58186 # -1 # ID=1_111;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.329 Len:207
+GC content is 0.3285
+Number of bases of type A= 67
+Number of bases of type C= 26
+Number of bases of type G= 42
+Number of bases of type T= 72
+--
+Seq: NC_111760.1_112 # 58183 # 58395 # -1 # ID=1_112;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347 Len:213
+GC content is 0.3474
+Number of bases of type A= 80
+Number of bases of type C= 36
+Number of bases of type G= 38
+Number of bases of type T= 59
+--
+Seq: NC_111760.1_113 # 58367 # 58846 # -1 # ID=1_113;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.367 Len:480
+GC content is 0.3646
+Number of bases of type A= 142
+Number of bases of type C= 76
+Number of bases of type G= 99
+Number of bases of type T= 163
+--
+Seq: NC_111760.1_114 # 58843 # 59184 # -1 # ID=1_114;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.333 Len:342
+GC content is 0.3363
+Number of bases of type A= 127
+Number of bases of type C= 43
+Number of bases of type G= 72
+Number of bases of type T= 100
+--
+Seq: NC_111760.1_115 # 59177 # 59722 # -1 # ID=1_115;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.359 Len:546
+GC content is 0.3571
+Number of bases of type A= 196
+Number of bases of type C= 90
+Number of bases of type G= 105
+Number of bases of type T= 155
+--
+Seq: NC_111760.1_116 # 59730 # 60191 # -1 # ID=1_116;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.390 Len:462
+GC content is 0.3874
+Number of bases of type A= 142
+Number of bases of type C= 84
+Number of bases of type G= 95
+Number of bases of type T= 141
+--
+Seq: NC_111760.1_117 # 60252 # 60530 # -1 # ID=1_117;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.391 Len:279
+GC content is 0.3907
+Number of bases of type A= 88
+Number of bases of type C= 48
+Number of bases of type G= 61
+Number of bases of type T= 82
+--
+Seq: NC_111760.1_118 # 60530 # 60796 # -1 # ID=1_118;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.378 Len:267
+GC content is 0.3783
+Number of bases of type A= 96
+Number of bases of type C= 42
+Number of bases of type G= 59
+Number of bases of type T= 70
+--
+Seq: NC_111760.1_119 # 60789 # 61010 # -1 # ID=1_119;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.360 Len:222
+GC content is 0.3604
+Number of bases of type A= 71
+Number of bases of type C= 25
+Number of bases of type G= 55
+Number of bases of type T= 71
+--
+Seq: NC_111760.1_120 # 61010 # 61378 # -1 # ID=1_120;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388 Len:369
+GC content is 0.3902
+Number of bases of type A= 115
+Number of bases of type C= 71
+Number of bases of type G= 73
+Number of bases of type T= 110
+--
+Seq: NC_111760.1_121 # 61385 # 61714 # -1 # ID=1_121;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.297 Len:330
+GC content is 0.2939
+Number of bases of type A= 119
+Number of bases of type C= 47
+Number of bases of type G= 50
+Number of bases of type T= 114
+--
+Seq: NC_111760.1_122 # 61711 # 62301 # -1 # ID=1_122;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362 Len:591
+GC content is 0.3621
+Number of bases of type A= 173
+Number of bases of type C= 99
+Number of bases of type G= 115
+Number of bases of type T= 204
+--
+Seq: NC_111760.1_123 # 62399 # 62815 # -1 # ID=1_123;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.341 Len:417
+GC content is 0.3405
+Number of bases of type A= 139
+Number of bases of type C= 61
+Number of bases of type G= 81
+Number of bases of type T= 136
+--
+Seq: NC_111760.1_124 # 62873 # 63175 # -1 # ID=1_124;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.380 Len:303
+GC content is 0.3795
+Number of bases of type A= 106
+Number of bases of type C= 52
+Number of bases of type G= 63
+Number of bases of type T= 82
+--
+Seq: NC_111760.1_125 # 63284 # 63862 # -1 # ID=1_125;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.409 Len:579
+GC content is 0.4093
+Number of bases of type A= 175
+Number of bases of type C= 103
+Number of bases of type G= 134
+Number of bases of type T= 167
+--
+Seq: NC_111760.1_126 # 63944 # 64438 # -1 # ID=1_126;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.374 Len:495
+GC content is 0.3737
+Number of bases of type A= 165
+Number of bases of type C= 82
+Number of bases of type G= 103
+Number of bases of type T= 145
+--
+Seq: NC_111760.1_127 # 64475 # 64915 # -1 # ID=1_127;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.374 Len:441
+GC content is 0.3741
+Number of bases of type A= 137
+Number of bases of type C= 72
+Number of bases of type G= 93
+Number of bases of type T= 139
+--
+Seq: NC_111760.1_128 # 64912 # 65400 # -1 # ID=1_128;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.354 Len:489
+GC content is 0.3538
+Number of bases of type A= 156
+Number of bases of type C= 61
+Number of bases of type G= 112
+Number of bases of type T= 160
+--
+Seq: NC_111760.1_129 # 65397 # 65759 # -1 # ID=1_129;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.295 Len:363
+GC content is 0.2893
+Number of bases of type A= 131
+Number of bases of type C= 43
+Number of bases of type G= 62
+Number of bases of type T= 127
+--
+Seq: NC_111760.1_130 # 65741 # 66133 # -1 # ID=1_130;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.338 Len:393
+GC content is 0.3410
+Number of bases of type A= 133
+Number of bases of type C= 58
+Number of bases of type G= 76
+Number of bases of type T= 126
+--
+Seq: NC_111760.1_131 # 66102 # 66710 # -1 # ID=1_131;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.309 Len:609
+GC content is 0.3087
+Number of bases of type A= 206
+Number of bases of type C= 77
+Number of bases of type G= 111
+Number of bases of type T= 215
+--
+Seq: NC_111760.1_132 # 66752 # 67345 # -1 # ID=1_132;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.382 Len:594
+GC content is 0.3805
+Number of bases of type A= 198
+Number of bases of type C= 101
+Number of bases of type G= 125
+Number of bases of type T= 170
+--
+Seq: NC_111760.1_133 # 67389 # 67919 # -1 # ID=1_133;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.377 Len:531
+GC content is 0.3766
+Number of bases of type A= 178
+Number of bases of type C= 91
+Number of bases of type G= 109
+Number of bases of type T= 153
+--
+Seq: NC_111760.1_134 # 67975 # 68238 # -1 # ID=1_134;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.345 Len:264
+GC content is 0.3447
+Number of bases of type A= 91
+Number of bases of type C= 37
+Number of bases of type G= 54
+Number of bases of type T= 82
+--
+Seq: NC_111760.1_135 # 68479 # 69042 # -1 # ID=1_135;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.362 Len:564
+GC content is 0.3617
+Number of bases of type A= 199
+Number of bases of type C= 105
+Number of bases of type G= 99
+Number of bases of type T= 161
+--
+Seq: NC_111760.1_136 # 69168 # 69641 # -1 # ID=1_136;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.380 Len:474
+GC content is 0.3776
+Number of bases of type A= 171
+Number of bases of type C= 88
+Number of bases of type G= 91
+Number of bases of type T= 124
+--
+Seq: NC_111760.1_137 # 70030 # 70380 # -1 # ID=1_137;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.299 Len:351
+GC content is 0.2991
+Number of bases of type A= 120
+Number of bases of type C= 49
+Number of bases of type G= 56
+Number of bases of type T= 126
+--
+Seq: NC_111760.1_138 # 70930 # 71412 # -1 # ID=1_138;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.290 Len:483
+GC content is 0.2857
+Number of bases of type A= 201
+Number of bases of type C= 56
+Number of bases of type G= 82
+Number of bases of type T= 144
+--
+Seq: NC_111760.1_139 # 71962 # 72477 # -1 # ID=1_139;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.318 Len:516
+GC content is 0.3178
+Number of bases of type A= 165
+Number of bases of type C= 61
+Number of bases of type G= 103
+Number of bases of type T= 187
+--
+Seq: NC_111760.1_140 # 72480 # 72770 # -1 # ID=1_140;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.289 Len:291
+GC content is 0.2955
+Number of bases of type A= 100
+Number of bases of type C= 35
+Number of bases of type G= 51
+Number of bases of type T= 105
+--
+Seq: NC_111760.1_141 # 72773 # 73171 # -1 # ID=1_141;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.381 Len:399
+GC content is 0.3860
+Number of bases of type A= 124
+Number of bases of type C= 66
+Number of bases of type G= 88
+Number of bases of type T= 121
+--
+Seq: NC_111760.1_142 # 73171 # 73356 # -1 # ID=1_142;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.301 Len:186
+GC content is 0.3011
+Number of bases of type A= 51
+Number of bases of type C= 21
+Number of bases of type G= 35
+Number of bases of type T= 79
+--
+Seq: NC_111760.1_143 # 73415 # 73648 # -1 # ID=1_143;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.350 Len:234
+GC content is 0.3504
+Number of bases of type A= 81
+Number of bases of type C= 33
+Number of bases of type G= 49
+Number of bases of type T= 71
+--
+Seq: NC_111760.1_144 # 73728 # 73985 # -1 # ID=1_144;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.360 Len:258
+GC content is 0.3605
+Number of bases of type A= 91
+Number of bases of type C= 43
+Number of bases of type G= 50
+Number of bases of type T= 74
+--
+Seq: NC_111760.1_145 # 74058 # 74513 # -1 # ID=1_145;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386 Len:456
+GC content is 0.3860
+Number of bases of type A= 136
+Number of bases of type C= 84
+Number of bases of type G= 92
+Number of bases of type T= 144
+--
+Seq: NC_111760.1_146 # 74513 # 74743 # -1 # ID=1_146;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.407 Len:231
+GC content is 0.4069
+Number of bases of type A= 77
+Number of bases of type C= 45
+Number of bases of type G= 49
+Number of bases of type T= 60
+--
+Seq: NC_111760.1_147 # 74743 # 75468 # -1 # ID=1_147;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.351 Len:726
+GC content is 0.3512
+Number of bases of type A= 237
+Number of bases of type C= 109
+Number of bases of type G= 146
+Number of bases of type T= 234
+--
+Seq: NC_111760.1_148 # 75518 # 76048 # -1 # ID=1_148;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.377 Len:531
+GC content is 0.3766
+Number of bases of type A= 178
+Number of bases of type C= 99
+Number of bases of type G= 101
+Number of bases of type T= 153
+--
+Seq: NC_111760.1_149 # 76155 # 76979 # -1 # ID=1_149;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.347 Len:825
+GC content is 0.3479
+Number of bases of type A= 316
+Number of bases of type C= 134
+Number of bases of type G= 153
+Number of bases of type T= 222
+--
+Seq: NC_111760.1_150 # 76979 # 77431 # -1 # ID=1_150;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.322 Len:453
+GC content is 0.3223
+Number of bases of type A= 183
+Number of bases of type C= 60
+Number of bases of type G= 86
+Number of bases of type T= 124
+--
+Seq: NC_111760.1_151 # 77479 # 78069 # 1 # ID=1_151;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.332 Len:591
+GC content is 0.3316
+Number of bases of type A= 218
+Number of bases of type C= 89
+Number of bases of type G= 107
+Number of bases of type T= 177
+--
+Seq: NC_111760.1_152 # 78053 # 79780 # 1 # ID=1_152;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.385 Len:1728
+GC content is 0.3854
+Number of bases of type A= 566
+Number of bases of type C= 278
+Number of bases of type G= 388
+Number of bases of type T= 496
+--
+Seq: NC_111760.1_153 # 79755 # 80309 # 1 # ID=1_153;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362 Len:555
+GC content is 0.3622
+Number of bases of type A= 193
+Number of bases of type C= 92
+Number of bases of type G= 109
+Number of bases of type T= 161
+--
+Seq: NC_111760.1_154 # 80309 # 80602 # 1 # ID=1_154;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.405 Len:294
+GC content is 0.4048
+Number of bases of type A= 96
+Number of bases of type C= 50
+Number of bases of type G= 69
+Number of bases of type T= 79
+--
+Seq: NC_111760.1_155 # 80611 # 82593 # 1 # ID=1_155;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.346 Len:1983
+GC content is 0.3459
+Number of bases of type A= 677
+Number of bases of type C= 341
+Number of bases of type G= 345
+Number of bases of type T= 620
+--
+Seq: NC_111760.1_156 # 82590 # 85688 # 1 # ID=1_156;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.333 Len:3099
+GC content is 0.3333
+Number of bases of type A= 1081
+Number of bases of type C= 470
+Number of bases of type G= 563
+Number of bases of type T= 985
+--
+Seq: NC_111760.1_157 # 85681 # 86685 # 1 # ID=1_157;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.387 Len:1005
+GC content is 0.3871
+Number of bases of type A= 318
+Number of bases of type C= 169
+Number of bases of type G= 220
+Number of bases of type T= 298
+--
+Seq: NC_111760.1_158 # 86749 # 87615 # 1 # ID=1_158;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.363 Len:867
+GC content is 0.3633
+Number of bases of type A= 282
+Number of bases of type C= 137
+Number of bases of type G= 178
+Number of bases of type T= 270
+--
+Seq: NC_111760.1_159 # 87615 # 89420 # 1 # ID=1_159;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358 Len:1806
+GC content is 0.3583
+Number of bases of type A= 613
+Number of bases of type C= 286
+Number of bases of type G= 361
+Number of bases of type T= 546
+--
+Seq: NC_111760.1_160 # 89420 # 90079 # 1 # ID=1_160;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.350 Len:660
+GC content is 0.3500
+Number of bases of type A= 227
+Number of bases of type C= 106
+Number of bases of type G= 125
+Number of bases of type T= 202
+--
+Seq: NC_111760.1_161 # 90076 # 91626 # 1 # ID=1_161;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.395 Len:1551
+GC content is 0.3946
+Number of bases of type A= 509
+Number of bases of type C= 262
+Number of bases of type G= 350
+Number of bases of type T= 430
+--
+Seq: NC_111760.1_162 # 91636 # 93093 # 1 # ID=1_162;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.326 Len:1458
+GC content is 0.3265
+Number of bases of type A= 554
+Number of bases of type C= 207
+Number of bases of type G= 269
+Number of bases of type T= 428
+--
+Seq: NC_111760.1_163 # 93126 # 94055 # 1 # ID=1_163;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.378 Len:930
+GC content is 0.3785
+Number of bases of type A= 302
+Number of bases of type C= 155
+Number of bases of type G= 197
+Number of bases of type T= 276
+--
+Seq: NC_111760.1_164 # 94057 # 94827 # 1 # ID=1_164;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.314 Len:771
+GC content is 0.3139
+Number of bases of type A= 281
+Number of bases of type C= 111
+Number of bases of type G= 131
+Number of bases of type T= 248
+--
+Seq: NC_111760.1_165 # 94869 # 95687 # 1 # ID=1_165;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.338 Len:819
+GC content is 0.3382
+Number of bases of type A= 277
+Number of bases of type C= 134
+Number of bases of type G= 143
+Number of bases of type T= 265
+--
+Seq: NC_111760.1_166 # 95696 # 96190 # 1 # ID=1_166;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.396 Len:495
+GC content is 0.3960
+Number of bases of type A= 173
+Number of bases of type C= 87
+Number of bases of type G= 109
+Number of bases of type T= 126
+--
+Seq: NC_111760.1_167 # 96174 # 98006 # 1 # ID=1_167;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.358 Len:1833
+GC content is 0.3579
+Number of bases of type A= 594
+Number of bases of type C= 296
+Number of bases of type G= 360
+Number of bases of type T= 583
+--
+Seq: NC_111760.1_168 # 98038 # 100017 # 1 # ID=1_168;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.395 Len:1980
+GC content is 0.3949
+Number of bases of type A= 589
+Number of bases of type C= 369
+Number of bases of type G= 413
+Number of bases of type T= 609
+--
+Seq: NC_111760.1_169 # 100134 # 100625 # 1 # ID=1_169;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.398 Len:492
+GC content is 0.3984
+Number of bases of type A= 159
+Number of bases of type C= 86
+Number of bases of type G= 110
+Number of bases of type T= 137
+--
+Seq: NC_111760.1_170 # 100709 # 102283 # 1 # ID=1_170;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.359 Len:1575
+GC content is 0.3587
+Number of bases of type A= 548
+Number of bases of type C= 253
+Number of bases of type G= 312
+Number of bases of type T= 462
+--
+Seq: NC_111760.1_171 # 102283 # 102531 # 1 # ID=1_171;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.390 Len:249
+GC content is 0.3896
+Number of bases of type A= 97
+Number of bases of type C= 37
+Number of bases of type G= 60
+Number of bases of type T= 55
+--
+Seq: NC_111760.1_172 # 102531 # 102956 # 1 # ID=1_172;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.392 Len:426
+GC content is 0.3920
+Number of bases of type A= 145
+Number of bases of type C= 85
+Number of bases of type G= 82
+Number of bases of type T= 114
+--
+Seq: NC_111760.1_173 # 102956 # 103594 # 1 # ID=1_173;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.418 Len:639
+GC content is 0.4178
+Number of bases of type A= 211
+Number of bases of type C= 117
+Number of bases of type G= 150
+Number of bases of type T= 161
+--
+Seq: NC_111760.1_174 # 103625 # 104434 # 1 # ID=1_174;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.389 Len:810
+GC content is 0.3889
+Number of bases of type A= 290
+Number of bases of type C= 133
+Number of bases of type G= 182
+Number of bases of type T= 205
+--
+Seq: NC_111760.1_175 # 104453 # 106018 # 1 # ID=1_175;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.450 Len:1566
+GC content is 0.4496
+Number of bases of type A= 428
+Number of bases of type C= 341
+Number of bases of type G= 363
+Number of bases of type T= 434
+--
+Seq: NC_111760.1_176 # 106102 # 107385 # 1 # ID=1_176;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.364 Len:1284
+GC content is 0.3645
+Number of bases of type A= 424
+Number of bases of type C= 223
+Number of bases of type G= 245
+Number of bases of type T= 392
+--
+Seq: NC_111760.1_177 # 107415 # 108419 # -1 # ID=1_177;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.344 Len:1005
+GC content is 0.3453
+Number of bases of type A= 325
+Number of bases of type C= 136
+Number of bases of type G= 211
+Number of bases of type T= 333
+--
+Seq: NC_111760.1_178 # 108429 # 108707 # -1 # ID=1_178;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.312 Len:279
+GC content is 0.3118
+Number of bases of type A= 101
+Number of bases of type C= 30
+Number of bases of type G= 57
+Number of bases of type T= 91
+--
+Seq: NC_111760.1_179 # 108694 # 108897 # -1 # ID=1_179;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.363 Len:204
+GC content is 0.3627
+Number of bases of type A= 75
+Number of bases of type C= 24
+Number of bases of type G= 50
+Number of bases of type T= 55
+--
+Seq: NC_111760.1_180 # 108998 # 110128 # -1 # ID=1_180;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.398 Len:1131
+GC content is 0.3988
+Number of bases of type A= 367
+Number of bases of type C= 230
+Number of bases of type G= 221
+Number of bases of type T= 313
+--
+Seq: NC_111760.1_181 # 110138 # 110818 # -1 # ID=1_181;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.363 Len:681
+GC content is 0.3627
+Number of bases of type A= 230
+Number of bases of type C= 115
+Number of bases of type G= 132
+Number of bases of type T= 204
+--
+Seq: NC_111760.1_182 # 110869 # 112380 # 1 # ID=1_182;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.335 Len:1512
+GC content is 0.3347
+Number of bases of type A= 536
+Number of bases of type C= 222
+Number of bases of type G= 284
+Number of bases of type T= 470
+--
+Seq: NC_111760.1_183 # 112406 # 112636 # 1 # ID=1_183;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.312 Len:231
+GC content is 0.3117
+Number of bases of type A= 91
+Number of bases of type C= 25
+Number of bases of type G= 47
+Number of bases of type T= 68
+--
+Seq: NC_111760.1_184 # 112693 # 112860 # -1 # ID=1_184;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.363 Len:168
+GC content is 0.3571
+Number of bases of type A= 57
+Number of bases of type C= 29
+Number of bases of type G= 31
+Number of bases of type T= 51
+--
+Seq: NC_111760.1_185 # 112889 # 113113 # -1 # ID=1_185;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.307 Len:225
+GC content is 0.3067
+Number of bases of type A= 81
+Number of bases of type C= 26
+Number of bases of type G= 43
+Number of bases of type T= 75
+--
+Seq: NC_111760.1_186 # 113113 # 113526 # -1 # ID=1_186;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.331 Len:414
+GC content is 0.3309
+Number of bases of type A= 153
+Number of bases of type C= 47
+Number of bases of type G= 90
+Number of bases of type T= 124
+--
+Seq: NC_111760.1_187 # 113593 # 113991 # -1 # ID=1_187;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.358 Len:399
+GC content is 0.3584
+Number of bases of type A= 135
+Number of bases of type C= 63
+Number of bases of type G= 80
+Number of bases of type T= 121
+--
+Seq: NC_111760.1_188 # 113991 # 114617 # -1 # ID=1_188;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.335 Len:627
+GC content is 0.3365
+Number of bases of type A= 236
+Number of bases of type C= 103
+Number of bases of type G= 108
+Number of bases of type T= 180
+--
+Seq: NC_111760.1_189 # 114668 # 115417 # 1 # ID=1_189;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.299 Len:750
+GC content is 0.2987
+Number of bases of type A= 288
+Number of bases of type C= 95
+Number of bases of type G= 129
+Number of bases of type T= 238
+--
+Seq: NC_111760.1_190 # 115417 # 116592 # 1 # ID=1_190;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.338 Len:1176
+GC content is 0.3376
+Number of bases of type A= 405
+Number of bases of type C= 187
+Number of bases of type G= 210
+Number of bases of type T= 374
+--
+Seq: NC_111760.1_191 # 116537 # 117070 # 1 # ID=1_191;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.288 Len:534
+GC content is 0.2884
+Number of bases of type A= 189
+Number of bases of type C= 69
+Number of bases of type G= 85
+Number of bases of type T= 191
+--
+Seq: NC_111760.1_192 # 117067 # 118839 # 1 # ID=1_192;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.371 Len:1773
+GC content is 0.3711
+Number of bases of type A= 642
+Number of bases of type C= 298
+Number of bases of type G= 360
+Number of bases of type T= 473
+--
+Seq: NC_111760.1_193 # 118848 # 119942 # 1 # ID=1_193;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.356 Len:1095
+GC content is 0.3562
+Number of bases of type A= 377
+Number of bases of type C= 180
+Number of bases of type G= 210
+Number of bases of type T= 328
+--
+Seq: NC_111760.1_194 # 119942 # 120907 # 1 # ID=1_194;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.383 Len:966
+GC content is 0.3830
+Number of bases of type A= 296
+Number of bases of type C= 166
+Number of bases of type G= 204
+Number of bases of type T= 300
+--
+Seq: NC_111760.1_195 # 120936 # 121226 # -1 # ID=1_195;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.323 Len:291
+GC content is 0.3230
+Number of bases of type A= 93
+Number of bases of type C= 40
+Number of bases of type G= 54
+Number of bases of type T= 104
+--
+Seq: NC_111760.1_196 # 121287 # 123344 # -1 # ID=1_196;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.362 Len:2058
+GC content is 0.3620
+Number of bases of type A= 687
+Number of bases of type C= 336
+Number of bases of type G= 409
+Number of bases of type T= 626
+--
+Seq: NC_111760.1_197 # 123348 # 125441 # -1 # ID=1_197;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.347 Len:2094
+GC content is 0.3467
+Number of bases of type A= 752
+Number of bases of type C= 341
+Number of bases of type G= 385
+Number of bases of type T= 616
+--
+Seq: NC_111760.1_198 # 125494 # 125682 # -1 # ID=1_198;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.328 Len:189
+GC content is 0.3228
+Number of bases of type A= 66
+Number of bases of type C= 29
+Number of bases of type G= 32
+Number of bases of type T= 62
+--
+Seq: NC_111760.1_199 # 125679 # 127139 # -1 # ID=1_199;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.355 Len:1461
+GC content is 0.3546
+Number of bases of type A= 498
+Number of bases of type C= 214
+Number of bases of type G= 304
+Number of bases of type T= 445
+--
+Seq: NC_111760.1_200 # 127136 # 127405 # -1 # ID=1_200;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.315 Len:270
+GC content is 0.3148
+Number of bases of type A= 102
+Number of bases of type C= 35
+Number of bases of type G= 50
+Number of bases of type T= 83
+--
+Seq: NC_111760.1_201 # 127405 # 128244 # -1 # ID=1_201;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.336 Len:840
+GC content is 0.3357
+Number of bases of type A= 281
+Number of bases of type C= 126
+Number of bases of type G= 156
+Number of bases of type T= 277
+--
+Seq: NC_111760.1_202 # 128241 # 128699 # -1 # ID=1_202;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.414 Len:459
+GC content is 0.4139
+Number of bases of type A= 142
+Number of bases of type C= 79
+Number of bases of type G= 111
+Number of bases of type T= 127
+--
+Seq: NC_111760.1_203 # 128692 # 128898 # -1 # ID=1_203;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.324 Len:207
+GC content is 0.3237
+Number of bases of type A= 74
+Number of bases of type C= 28
+Number of bases of type G= 39
+Number of bases of type T= 66
+--
+Seq: NC_111760.1_204 # 128895 # 129092 # -1 # ID=1_204;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.343 Len:198
+GC content is 0.3434
+Number of bases of type A= 61
+Number of bases of type C= 23
+Number of bases of type G= 45
+Number of bases of type T= 69
+--
+Seq: NC_111760.1_205 # 129092 # 129379 # -1 # ID=1_205;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.392 Len:288
+GC content is 0.3924
+Number of bases of type A= 80
+Number of bases of type C= 58
+Number of bases of type G= 55
+Number of bases of type T= 95
+--
+Seq: NC_111760.1_206 # 129420 # 129785 # -1 # ID=1_206;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.352 Len:366
+GC content is 0.3525
+Number of bases of type A= 114
+Number of bases of type C= 60
+Number of bases of type G= 69
+Number of bases of type T= 123
+--
+Seq: NC_111760.1_207 # 129853 # 130185 # -1 # ID=1_207;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.327 Len:333
+GC content is 0.3273
+Number of bases of type A= 128
+Number of bases of type C= 40
+Number of bases of type G= 69
+Number of bases of type T= 96
+--
+Seq: NC_111760.1_208 # 130296 # 130514 # -1 # ID=1_208;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.406 Len:219
+GC content is 0.4064
+Number of bases of type A= 74
+Number of bases of type C= 38
+Number of bases of type G= 51
+Number of bases of type T= 56
+--
+Seq: NC_111760.1_209 # 130667 # 130915 # -1 # ID=1_209;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.418 Len:249
+GC content is 0.4217
+Number of bases of type A= 80
+Number of bases of type C= 55
+Number of bases of type G= 50
+Number of bases of type T= 64
+--
+Seq: NC_111760.1_210 # 131063 # 131398 # -1 # ID=1_210;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.408 Len:336
+GC content is 0.4048
+Number of bases of type A= 89
+Number of bases of type C= 63
+Number of bases of type G= 73
+Number of bases of type T= 111
+--
+Seq: NC_111760.1_211 # 131455 # 131763 # -1 # ID=1_211;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.353 Len:309
+GC content is 0.3528
+Number of bases of type A= 98
+Number of bases of type C= 43
+Number of bases of type G= 66
+Number of bases of type T= 102
+--
+Seq: NC_111760.1_212 # 131764 # 132000 # -1 # ID=1_212;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.304 Len:237
+GC content is 0.3038
+Number of bases of type A= 86
+Number of bases of type C= 31
+Number of bases of type G= 41
+Number of bases of type T= 79
+--
+Seq: NC_111760.1_213 # 132000 # 132581 # -1 # ID=1_213;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373 Len:582
+GC content is 0.3729
+Number of bases of type A= 188
+Number of bases of type C= 90
+Number of bases of type G= 127
+Number of bases of type T= 177
+--
+Seq: NC_111760.1_214 # 132578 # 132916 # -1 # ID=1_214;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.324 Len:339
+GC content is 0.3215
+Number of bases of type A= 114
+Number of bases of type C= 45
+Number of bases of type G= 64
+Number of bases of type T= 116
+--
+Seq: NC_111760.1_215 # 132913 # 133149 # -1 # ID=1_215;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.363 Len:237
+GC content is 0.3586
+Number of bases of type A= 82
+Number of bases of type C= 36
+Number of bases of type G= 49
+Number of bases of type T= 70
+--
+Seq: NC_111760.1_216 # 133143 # 133670 # -1 # ID=1_216;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.318 Len:528
+GC content is 0.3220
+Number of bases of type A= 193
+Number of bases of type C= 57
+Number of bases of type G= 113
+Number of bases of type T= 165
+--
+Seq: NC_111760.1_217 # 133733 # 134008 # -1 # ID=1_217;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.380 Len:276
+GC content is 0.3804
+Number of bases of type A= 80
+Number of bases of type C= 53
+Number of bases of type G= 52
+Number of bases of type T= 91
+--
+Seq: NC_111760.1_218 # 134011 # 134211 # -1 # ID=1_218;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.284 Len:201
+GC content is 0.2935
+Number of bases of type A= 72
+Number of bases of type C= 15
+Number of bases of type G= 44
+Number of bases of type T= 70
+--
+Seq: NC_111760.1_219 # 134204 # 134401 # -1 # ID=1_219;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.348 Len:198
+GC content is 0.3434
+Number of bases of type A= 68
+Number of bases of type C= 24
+Number of bases of type G= 44
+Number of bases of type T= 62
+--
+Seq: NC_111760.1_220 # 134401 # 135309 # -1 # ID=1_220;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.406 Len:909
+GC content is 0.4059
+Number of bases of type A= 282
+Number of bases of type C= 149
+Number of bases of type G= 220
+Number of bases of type T= 258
+--
+Seq: NC_111760.1_221 # 135306 # 135626 # -1 # ID=1_221;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.355 Len:321
+GC content is 0.3520
+Number of bases of type A= 112
+Number of bases of type C= 47
+Number of bases of type G= 66
+Number of bases of type T= 96
+--
+Seq: NC_111760.1_222 # 135623 # 135853 # -1 # ID=1_222;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.316 Len:231
+GC content is 0.3203
+Number of bases of type A= 83
+Number of bases of type C= 34
+Number of bases of type G= 40
+Number of bases of type T= 74
+--
+Seq: NC_111760.1_223 # 135850 # 136149 # -1 # ID=1_223;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.343 Len:300
+GC content is 0.3433
+Number of bases of type A= 104
+Number of bases of type C= 40
+Number of bases of type G= 63
+Number of bases of type T= 93
+--
+Seq: NC_111760.1_224 # 136146 # 136499 # -1 # ID=1_224;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.336 Len:354
+GC content is 0.3362
+Number of bases of type A= 139
+Number of bases of type C= 49
+Number of bases of type G= 70
+Number of bases of type T= 96
+--
+Seq: NC_111760.1_225 # 136490 # 136996 # -1 # ID=1_225;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.351 Len:507
+GC content is 0.3511
+Number of bases of type A= 169
+Number of bases of type C= 78
+Number of bases of type G= 100
+Number of bases of type T= 160
+--
+Seq: NC_111760.1_226 # 137058 # 138182 # -1 # ID=1_226;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.339 Len:1125
+GC content is 0.3387
+Number of bases of type A= 390
+Number of bases of type C= 159
+Number of bases of type G= 222
+Number of bases of type T= 354
+--
+Seq: NC_111760.1_227 # 138235 # 138645 # -1 # ID=1_227;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.314 Len:411
+GC content is 0.3139
+Number of bases of type A= 164
+Number of bases of type C= 65
+Number of bases of type G= 64
+Number of bases of type T= 118
+--
+Seq: NC_111760.1_228 # 138673 # 139851 # -1 # ID=1_228;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.361 Len:1179
+GC content is 0.3613
+Number of bases of type A= 365
+Number of bases of type C= 202
+Number of bases of type G= 224
+Number of bases of type T= 388
+--
+Seq: NC_111760.1_229 # 139903 # 142167 # -1 # ID=1_229;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.375 Len:2265
+GC content is 0.3753
+Number of bases of type A= 707
+Number of bases of type C= 391
+Number of bases of type G= 459
+Number of bases of type T= 708
+--
+Seq: NC_111760.1_230 # 142158 # 142484 # -1 # ID=1_230;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.394 Len:327
+GC content is 0.3945
+Number of bases of type A= 106
+Number of bases of type C= 54
+Number of bases of type G= 75
+Number of bases of type T= 92
+--
+Seq: NC_111760.1_231 # 142438 # 142701 # -1 # ID=1_231;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.333 Len:264
+GC content is 0.3333
+Number of bases of type A= 88
+Number of bases of type C= 45
+Number of bases of type G= 43
+Number of bases of type T= 88
+--
+Seq: NC_111760.1_232 # 142720 # 143580 # -1 # ID=1_232;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.387 Len:861
+GC content is 0.3879
+Number of bases of type A= 270
+Number of bases of type C= 155
+Number of bases of type G= 179
+Number of bases of type T= 257
+--
+Seq: NC_111760.1_233 # 143580 # 143786 # -1 # ID=1_233;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.343 Len:207
+GC content is 0.3478
+Number of bases of type A= 73
+Number of bases of type C= 37
+Number of bases of type G= 35
+Number of bases of type T= 62
+--
+Seq: NC_111760.1_234 # 143783 # 144364 # -1 # ID=1_234;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.375 Len:582
+GC content is 0.3746
+Number of bases of type A= 176
+Number of bases of type C= 96
+Number of bases of type G= 122
+Number of bases of type T= 188
+--
+Seq: NC_111760.1_235 # 144364 # 144609 # -1 # ID=1_235;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.297 Len:246
+GC content is 0.3049
+Number of bases of type A= 81
+Number of bases of type C= 24
+Number of bases of type G= 51
+Number of bases of type T= 90
+--
+Seq: NC_111760.1_236 # 144606 # 144965 # -1 # ID=1_236;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.372 Len:360
+GC content is 0.3722
+Number of bases of type A= 115
+Number of bases of type C= 55
+Number of bases of type G= 79
+Number of bases of type T= 111
+--
+Seq: NC_111760.1_237 # 144976 # 145218 # -1 # ID=1_237;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.362 Len:243
+GC content is 0.3621
+Number of bases of type A= 80
+Number of bases of type C= 27
+Number of bases of type G= 61
+Number of bases of type T= 75
+--
+Seq: NC_111760.1_238 # 145273 # 145659 # -1 # ID=1_238;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.315 Len:387
+GC content is 0.3178
+Number of bases of type A= 141
+Number of bases of type C= 44
+Number of bases of type G= 79
+Number of bases of type T= 123
+--
+Seq: NC_111760.1_239 # 145705 # 145932 # -1 # ID=1_239;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.355 Len:228
+GC content is 0.3553
+Number of bases of type A= 71
+Number of bases of type C= 33
+Number of bases of type G= 48
+Number of bases of type T= 76
+--
+Seq: NC_111760.1_240 # 146079 # 146987 # -1 # ID=1_240;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.377 Len:909
+GC content is 0.3773
+Number of bases of type A= 297
+Number of bases of type C= 150
+Number of bases of type G= 193
+Number of bases of type T= 269
+--
+Seq: NC_111760.1_241 # 147087 # 147740 # -1 # ID=1_241;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.286 Len:654
+GC content is 0.2859
+Number of bases of type A= 236
+Number of bases of type C= 76
+Number of bases of type G= 111
+Number of bases of type T= 231
+--
+Seq: NC_111760.1_242 # 147737 # 148075 # -1 # ID=1_242;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.322 Len:339
+GC content is 0.3215
+Number of bases of type A= 120
+Number of bases of type C= 49
+Number of bases of type G= 60
+Number of bases of type T= 110
+--
+Seq: NC_111760.1_243 # 148053 # 148322 # -1 # ID=1_243;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.330 Len:270
+GC content is 0.3296
+Number of bases of type A= 95
+Number of bases of type C= 34
+Number of bases of type G= 55
+Number of bases of type T= 86
+--
+Seq: NC_111760.1_244 # 148331 # 149248 # -1 # ID=1_244;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.327 Len:918
+GC content is 0.3268
+Number of bases of type A= 322
+Number of bases of type C= 133
+Number of bases of type G= 167
+Number of bases of type T= 296
+--
+Seq: NC_111760.1_245 # 149353 # 153222 # 1 # ID=1_245;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.375 Len:3870
+GC content is 0.3752
+Number of bases of type A= 1274
+Number of bases of type C= 698
+Number of bases of type G= 754
+Number of bases of type T= 1144
+--
+Seq: NC_111760.1_246 # 153231 # 154346 # 1 # ID=1_246;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.366 Len:1116
+GC content is 0.3656
+Number of bases of type A= 342
+Number of bases of type C= 183
+Number of bases of type G= 225
+Number of bases of type T= 366
+--
+Seq: NC_111760.1_247 # 154536 # 155192 # 1 # ID=1_247;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.368 Len:657
+GC content is 0.3683
+Number of bases of type A= 210
+Number of bases of type C= 108
+Number of bases of type G= 134
+Number of bases of type T= 205
+--
+Seq: NC_111760.1_248 # 155201 # 158149 # 1 # ID=1_248;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.401 Len:2949
+GC content is 0.4012
+Number of bases of type A= 880
+Number of bases of type C= 516
+Number of bases of type G= 667
+Number of bases of type T= 886
+--
+Seq: NC_111760.1_249 # 158182 # 158982 # 1 # ID=1_249;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.489 Len:801
+GC content is 0.4894
+Number of bases of type A= 172
+Number of bases of type C= 143
+Number of bases of type G= 249
+Number of bases of type T= 237
+--
+Seq: NC_111760.1_250 # 159013 # 159669 # 1 # ID=1_250;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.353 Len:657
+GC content is 0.3531
+Number of bases of type A= 214
+Number of bases of type C= 108
+Number of bases of type G= 124
+Number of bases of type T= 211
+--
+Seq: NC_111760.1_251 # 159670 # 159942 # -1 # ID=1_251;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.308 Len:273
+GC content is 0.3077
+Number of bases of type A= 100
+Number of bases of type C= 32
+Number of bases of type G= 52
+Number of bases of type T= 89
+--
+Seq: NC_111760.1_252 # 159955 # 160107 # -1 # ID=1_252;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333 Len:153
+GC content is 0.3268
+Number of bases of type A= 63
+Number of bases of type C= 22
+Number of bases of type G= 28
+Number of bases of type T= 40
+--
+Seq: NC_111760.1_253 # 160104 # 160382 # -1 # ID=1_253;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.283 Len:279
+GC content is 0.2796
+Number of bases of type A= 103
+Number of bases of type C= 35
+Number of bases of type G= 43
+Number of bases of type T= 98
+--
+Seq: NC_111760.1_254 # 160372 # 160491 # -1 # ID=1_254;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.300 Len:120
+GC content is 0.3000
+Number of bases of type A= 54
+Number of bases of type C= 16
+Number of bases of type G= 20
+Number of bases of type T= 30
+--
+Seq: NC_111760.1_255 # 160466 # 160684 # -1 # ID=1_255;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.297 Len:219
+GC content is 0.3014
+Number of bases of type A= 82
+Number of bases of type C= 27
+Number of bases of type G= 39
+Number of bases of type T= 71
+--
+Seq: NC_111760.1_256 # 160668 # 160964 # -1 # ID=1_256;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.333 Len:297
+GC content is 0.3333
+Number of bases of type A= 113
+Number of bases of type C= 42
+Number of bases of type G= 57
+Number of bases of type T= 85
+--
+Seq: NC_111760.1_257 # 160964 # 161425 # -1 # ID=1_257;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.368 Len:462
+GC content is 0.3701
+Number of bases of type A= 156
+Number of bases of type C= 77
+Number of bases of type G= 94
+Number of bases of type T= 135
+--
+Seq: NC_111760.1_258 # 161422 # 161766 # -1 # ID=1_258;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.386 Len:345
+GC content is 0.3855
+Number of bases of type A= 106
+Number of bases of type C= 57
+Number of bases of type G= 76
+Number of bases of type T= 106
+--
+Seq: NC_111760.1_259 # 161777 # 162412 # -1 # ID=1_259;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.347 Len:636
+GC content is 0.3491
+Number of bases of type A= 230
+Number of bases of type C= 97
+Number of bases of type G= 125
+Number of bases of type T= 184
+--
+Seq: NC_111760.1_260 # 162518 # 162745 # -1 # ID=1_260;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.320 Len:228
+GC content is 0.3246
+Number of bases of type A= 85
+Number of bases of type C= 31
+Number of bases of type G= 43
+Number of bases of type T= 69
+--
+Seq: NC_111760.1_261 # 162880 # 163029 # -1 # ID=1_261;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.440 Len:150
+GC content is 0.4467
+Number of bases of type A= 33
+Number of bases of type C= 28
+Number of bases of type G= 39
+Number of bases of type T= 50
+--
+Seq: NC_111760.1_262 # 163026 # 164354 # -1 # ID=1_262;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362 Len:1329
+GC content is 0.3619
+Number of bases of type A= 449
+Number of bases of type C= 218
+Number of bases of type G= 263
+Number of bases of type T= 399
+--
+Seq: NC_111760.1_263 # 164492 # 164650 # -1 # ID=1_263;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.308 Len:159
+GC content is 0.3082
+Number of bases of type A= 43
+Number of bases of type C= 18
+Number of bases of type G= 31
+Number of bases of type T= 67
+--
+Seq: NC_111760.1_264 # 164738 # 165193 # -1 # ID=1_264;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.390 Len:456
+GC content is 0.3904
+Number of bases of type A= 126
+Number of bases of type C= 80
+Number of bases of type G= 98
+Number of bases of type T= 152
+--
+Seq: NC_111760.1_265 # 165253 # 165468 # -1 # ID=1_265;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.333 Len:216
+GC content is 0.3333
+Number of bases of type A= 76
+Number of bases of type C= 28
+Number of bases of type G= 44
+Number of bases of type T= 68
+--
+Seq: NC_111760.1_266 # 165584 # 165781 # -1 # ID=1_266;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.343 Len:198
+GC content is 0.3434
+Number of bases of type A= 52
+Number of bases of type C= 23
+Number of bases of type G= 45
+Number of bases of type T= 78
+--
+Seq: NC_111760.1_267 # 166146 # 166409 # -1 # ID=1_267;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333 Len:264
+GC content is 0.3333
+Number of bases of type A= 88
+Number of bases of type C= 37
+Number of bases of type G= 51
+Number of bases of type T= 88
+--
+Seq: NC_111760.1_268 # 166415 # 166621 # -1 # ID=1_268;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.333 Len:207
+GC content is 0.3333
+Number of bases of type A= 76
+Number of bases of type C= 29
+Number of bases of type G= 40
+Number of bases of type T= 62
+--
+Seq: NC_111760.1_269 # 166703 # 167260 # -1 # ID=1_269;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.407 Len:558
+GC content is 0.4068
+Number of bases of type A= 187
+Number of bases of type C= 106
+Number of bases of type G= 121
+Number of bases of type T= 144
+--
+Seq: NC_111760.1_270 # 167347 # 167541 # -1 # ID=1_270;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.297 Len:195
+GC content is 0.2974
+Number of bases of type A= 79
+Number of bases of type C= 25
+Number of bases of type G= 33
+Number of bases of type T= 58
+--
+Seq: NC_111760.1_271 # 167570 # 168508 # -1 # ID=1_271;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.367 Len:939
+GC content is 0.3674
+Number of bases of type A= 299
+Number of bases of type C= 159
+Number of bases of type G= 186
+Number of bases of type T= 295
+--
